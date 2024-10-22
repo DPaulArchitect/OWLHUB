@@ -19,6 +19,8 @@ const HomeScreen = () => {
         </View>
       ))}
       <NavigationButton screenName="Post" title="Create Post" />
+      <NavigationButton screenName="OwlInfo" title="Owl Info" />
+      <NavigationButton screenName="Profile" title="User 
     </View>
   );
 };
