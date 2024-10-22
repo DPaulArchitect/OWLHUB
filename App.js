@@ -16,6 +16,7 @@ const App = () => {
         <Stack.Screen name="Post" component={PostScreen} />
         <Stack.Screen name="Profile" component={ProfileScreen} />
         <Stack.Screen name="OwlInfo" component={OwlInfoScreen} />
+        <Stack.Screen name="OwlSale" component={OwlSaleScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
